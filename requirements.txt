@@ -1,0 +1,5 @@
+# 运行环境依赖
+# streamlit 需 >=1.63：代码用到 st.navigation / st.Page / st.pills /
+# st.segmented_control / chat_input(submit_mode) 等较新 API。
+streamlit>=1.63,<1.64
+openai>=1.30,<2

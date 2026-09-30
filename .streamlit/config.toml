@@ -1,0 +1,26 @@
+[theme]
+base = "light"
+primaryColor = "#0d9488"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f0fdfa"
+textColor = "#1f2937"
+linkColor = "#0d9488"
+
+greenColor = "#15803d"
+greenBackgroundColor = "#dcfce7"
+greenTextColor = "#166534"
+
+redColor = "#dc2626"
+redBackgroundColor = "#fee2e2"
+redTextColor = "#991b1b"
+
+orangeColor = "#d97706"
+orangeBackgroundColor = "#ffedd5"
+orangeTextColor = "#9a3412"
+
+baseRadius = "10px"
+buttonRadius = "10px"
+showWidgetBorder = true
+showSidebarBorder = true
+
+font = "'Inter':https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
